@@ -36,3 +36,15 @@ Credits:
     Misc. Sass functions (@HugoGiraudel)
     Respond.js (j.mp/respondjs)
     Skel (skel.io)
+
+Model en 6 rubriques :
+
+Formation
+Compétances
+Expériences
+Loisirs :
+Musique : traveaux en musique / multimedia
+Perso : blog et billets d'humeur
+
+
+
